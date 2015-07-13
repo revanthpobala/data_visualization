@@ -2,7 +2,7 @@
   "name": "Data Visualization",
   "version": "1.0.0",
   "authors": [
-    "DensityDesign Lab"
+    "Revanth Pobala"
   ],
   "description": "The missing link between spreadsheet and vector graphics",
   "main": "index.html",
@@ -10,7 +10,7 @@
     "Raw"
   ],
   "license": "LGPL v.3",
-  "homepage": "raw.densitydesign.org",
+  "homepage": "Revanth",
   "ignore": [
     "**/.*",
     "node_modules",
